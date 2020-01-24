@@ -1,4 +1,5 @@
 
+[![](https://www.r-pkg.org/badges/version/bacondecomp?color=green)](https://cran.r-project.org/package=bacondecomp)
 ![](https://github.com/evanjflack/bacondecomp/workflows/R-CMD-check/badge.svg)
 [![Build
 Status](https://travis-ci.com/evanjflack/bacondecomp.svg?branch=master)](https://travis-ci.com/evanjflack/bacondecomp)
@@ -17,6 +18,12 @@ timing. The decomposition can be done with and without time-varying
 covariates.
 
 ## Installation
+
+You can install `bacondecomp 0.1.0` from CRAN:
+
+``` r
+install.packages("bacondecomp")
+```
 
 You can install the development version of `bacondecomp` from GitHub:
 
